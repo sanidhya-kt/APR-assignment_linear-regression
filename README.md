@@ -94,4 +94,5 @@ energy-consumption-prediction/
 
 ## 👨‍💻 Author
 
+created by sanidhya
 Contributions, feedback, and pull requests are **always welcome**!
